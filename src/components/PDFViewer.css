@@ -1,0 +1,26 @@
+.pdf-viewer {
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .pdf-controls {
+    margin-bottom: 10px;
+  }
+  
+  .pdf-controls button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+  
+  .pdf-controls span {
+    font-weight: bold;
+    margin: 0 10px;
+  }
+  
+  .pdf-document {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
